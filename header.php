@@ -27,4 +27,5 @@
             <?php $args = [ 'theme_location' => 'mobile' ]; ?>
 			<?php wp_nav_menu($args) ?>
         </nav>
+        <?php echo do_shortcode('[smartslider3 slider=2]'); ?>
     </header>

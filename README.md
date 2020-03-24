@@ -1,3 +1,5 @@
 # Furnitures WordPress Theme
 
-Basic WordPress Theme from scratch which will be used for website http://odnawianie-mebli.com.pl/
+Basic WordPress Theme from scratch used for website http://odnawianie-mebli.com.pl/
+
+To do: 404 page

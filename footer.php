@@ -1,7 +1,7 @@
 <footer class="site-footer">
-    <p><?php bloginfo( 'name' ) ?></p>
+    <p>&copy; 2012 – <?php echo date('Y'); ?> <?php bloginfo( 'name' ) ?> Handel i Usługi Stanisław Kochanowski</p>
 </footer>
-</div> <!-- div class=container" -->
+</div> <!-- div class="container" -->
  
 <?php wp_footer() ?>
 

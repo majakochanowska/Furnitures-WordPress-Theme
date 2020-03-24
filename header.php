@@ -4,8 +4,6 @@
 <head>
     <meta charset="<?php bloginfo( 'charset' ); ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Pontano+Sans|Syncopate|Abel&display=swap" rel="stylesheet">
-    <script src="https://kit.fontawesome.com/b1b2166a59.js" crossorigin="anonymous"></script>
     <title><?php bloginfo( 'name' ); ?></title>
     <?php wp_head() ?>
 </head>
